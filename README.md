@@ -1,2 +1,2 @@
 # IIDT-Assignments
-This repository if for assignment given by iidt 
+This repository is for assignment given by iidt 
